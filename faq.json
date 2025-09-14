@@ -1,0 +1,18 @@
+{
+  "questions": [
+    "What is your name?",
+    "What are your business hours?",
+    "How can I reset my password?",
+    "Where is your office located?",
+    "What services do you offer?",
+    "How can I contact customer support?"
+  ],
+  "answers": [
+    "I am Salman",
+    "Our business hours are 9 AM to 6 PM, Monday to Friday.",
+    "You can reset your password by clicking 'Forgot Password' on the login page.",
+    "Our office is located at Imadol, Mahalaxmi-4, Lalitpur, Nepal.",
+    "We offer AI solutions, software development, and IT consulting.",
+    "You can contact support at support@example.com or call 9815891053."
+  ]
+}
